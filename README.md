@@ -22,6 +22,10 @@ Then, to run this website in development mode (with live-reload):
 yarn develop
 ```
 
+View the live demo at (http://localhost:8000/)
+
+View the GraphQL data at (http://localhost:8000/___graphql)
+
 To build the final, production ready static website:
 
 ```
